@@ -6,6 +6,7 @@ Ova aplikacija je rješenje za frontend zadatak tvrtke Enterwell. Cilj je bio ra
 
 ## 📦 Tehnologije korištene
 
+- **Node v20.18.1**
 - **React 19**
 - **React Router v6**
 - **TypeScript**
