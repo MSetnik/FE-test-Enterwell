@@ -51,8 +51,6 @@ cd quizMaker && npm run dev
     - Unos naziva kviza
     - Dodavanje proizvoljnog broja pitanja (tekst pitanja + tekst odgovora)
     - Recikliranje pitanja iz prethodnih kvizova
-  <br/>
-  <br/>
 
 2. ✏️ Uređivanje kviza
     - Promjena naziva kviza
